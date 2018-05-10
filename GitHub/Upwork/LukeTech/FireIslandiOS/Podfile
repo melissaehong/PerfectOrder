@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'Fire Island' do
+
+pod 'AFNetworking', '2.5.4'
+
+end
+
+target 'Fire IslandTests' do
+
+end
+
